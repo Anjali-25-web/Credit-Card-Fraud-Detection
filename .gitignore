@@ -1,0 +1,14 @@
+# Dataset
+data/
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Models (optional but recommended for GitHub)
+*.joblib
+
+# System files
+__MACOSX/
+.DS_Store
